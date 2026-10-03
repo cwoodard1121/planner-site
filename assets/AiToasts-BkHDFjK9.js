@@ -1,0 +1,1 @@
+import{t as e}from"./react-CR5VJ85Q.js";/* empty css              */import{t}from"./Toasts-C7yGHeUS.js";import{r as n,t as r}from"./toastStore-CiIN6NWW.js";var i=e();function a(){let e=n(e=>e.toasts);return(0,i.jsx)(t,{toasts:e,onDismiss:r})}export{a as t};
