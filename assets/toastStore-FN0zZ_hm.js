@@ -1,0 +1,1 @@
+import{f as e}from"./google-DfPbZQQB.js";import{yt as t}from"./rules-DWuSinfW.js";var n=e(e=>({ghosts:[],setGhosts:t=>e({ghosts:t}),clearGhosts:()=>e({ghosts:[]})})),r=e(()=>({toasts:[]}));function i(e){r.setState(n=>({toasts:[...n.toasts.slice(-2),{...e,id:t()}]}))}function a(e){r.setState(t=>({toasts:t.toasts.filter(t=>t.id!==e)}))}export{n as i,i as n,r,a as t};
