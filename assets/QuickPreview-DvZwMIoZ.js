@@ -1,0 +1,1 @@
+import{t as e}from"./react-DjX0U0Iu.js";import{d as t}from"./todoActions-Bkypxg3P.js";var n=e();function r({id:e,parsed:r,className:i}){return(0,n.jsxs)(`p`,{id:e,className:`tk-preview${i?` ${i}`:``}`,"aria-live":`polite`,children:[(0,n.jsx)(`span`,{children:t(r)}),r.hard?(0,n.jsx)(`span`,{className:`tk-preview-hard`,children:`Non-negotiable`}):null]})}export{r as t};

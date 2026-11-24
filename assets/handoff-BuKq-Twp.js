@@ -1,0 +1,1 @@
+var e=`planner:ingest:handoff`;function t(t){try{sessionStorage.setItem(e,JSON.stringify(t,null,2))}catch{}}function n(){try{let t=sessionStorage.getItem(e);return t!==null&&sessionStorage.removeItem(e),t}catch{return null}}export{n,t};

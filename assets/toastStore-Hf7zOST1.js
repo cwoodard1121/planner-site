@@ -1,0 +1,1 @@
+import{t as e}from"./react-CxxN-3Rq.js";import{D as t}from"./todos-Bqpo_qNE.js";var n=e(()=>({toasts:[]}));function r(e){n.setState(n=>({toasts:[...n.toasts.slice(-2),{...e,id:t()}]}))}function i(e){n.setState(t=>({toasts:t.toasts.filter(t=>t.id!==e)}))}export{r as n,n as r,i as t};
